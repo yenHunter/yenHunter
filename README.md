@@ -1,26 +1,23 @@
 # 👋 Hi, I'm Firoz Ebna Jobaier  
 
 🌍 **Software Engineer | GIS & Data Specialist | Full-Stack Developer**  
-💡 Passionate about building scalable web applications, integrating geospatial data, and using technology for sustainable development and climate resilience.  
+💡 Passionate about building scalable web applications, integrating geospatial data and using technology for sustainable development and climate resilience.  
 
 ---
 
 ### 🧭 About Me
-- 💼 Currently working at **Workspace Infotech Ltd.** on IoT-based agricultural systems and scalable SaaS backends.  
-- 🧑‍💻 6+ years of experience developing **data-driven platforms** using **Laravel, Spring Boot, ReactJS, and Python**.  
-- 🌱 Previously at **Bangladesh Agricultural Research Council (BARC)**, developed **GIS-integrated data systems** and **climate decision-support tools**.  
-- 🛰️ Experienced in **Remote Sensing, PostGIS, and Power BI** for geospatial data visualization and analysis.  
-- 🎯 Interested in **AI, NLP, TensorFlow**, and **environmental data applications**.  
+Detail-oriented Software Developer with 6+ years of experience in full-stack development, GIS-integrated systems and enterprise solutions. Skilled in Laravel, Django, ReactJS and MySQL/PostgreSQL. Proven success in developing scalable web applications, data processing pipelines, and tools that support agriculture, research, and decision-making in public and private sector organizations. 
 
 ---
 
 ### 🛠️ Technical Skills
-**Languages:** PHP, Java, Python, JavaScript, C#, SQL  
-**Frameworks:** Laravel, Spring Boot, Django, ASP.NET, CodeIgniter  
-**Frontend:** ReactJS, Bootstrap, jQuery  
-**Databases:** PostgreSQL/PostGIS, MySQL, Oracle, MS SQL Server  
-**Tools:** Git, Docker, Nginx, ArcGIS, Power BI  
-**Specialization:** Remote Sensing, GIS Analysis, Data Visualization, RESTful APIs  
+**Languages:** PHP, Python, JavaScript
+**Frameworks:** Laravel, Django  
+**Frontend:** ReactJS, Bootstrap, HTML
+**Databases:** PostgreSQL, MySQL, Oracle
+**DevOps:**: AWS, EC2, VPS
+**Tools:** Git, Docker, Nginx, ArcGIS, PostGIS, Power BI, Jira  
+**Specialization:** Remote Sensing, GIS Analysis, Software Development  
 
 ---
 
