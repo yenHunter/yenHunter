@@ -11,13 +11,13 @@ Detail-oriented Software Developer with 6+ years of experience in full-stack dev
 ---
 
 ### 🛠️ Technical Skills
-**Languages:** PHP, Python, JavaScript
-**Frameworks:** Laravel, Django  
-**Frontend:** ReactJS, Bootstrap, HTML
-**Databases:** PostgreSQL, MySQL, Oracle
-**DevOps:**: AWS, EC2, VPS
-**Tools:** Git, Docker, Nginx, ArcGIS, PostGIS, Power BI, Jira  
-**Specialization:** Remote Sensing, GIS Analysis, Software Development  
+- **Languages:** PHP, Python, JavaScript
+- **Frameworks:** Laravel, Django  
+- **Frontend:** ReactJS, Bootstrap, HTML
+- **Databases:** PostgreSQL, MySQL, Oracle
+- **DevOps:**: AWS, EC2, VPS
+- **Tools:** Git, Docker, Nginx, ArcGIS, PostGIS, Power BI, Jira  
+- **Specialization:** Remote Sensing, GIS Analysis, Software Development  
 
 ---
 
